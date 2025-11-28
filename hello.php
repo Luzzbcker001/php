@@ -2,4 +2,4 @@
 echo "Hello, World!";
 ?>
 <br>
-<a href="index.html">Voltar</a>
+<a href="index.php">Voltar</a>

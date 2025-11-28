@@ -5,4 +5,4 @@ $soma = $a + $b;
 echo "A soma de $a e $b é $soma.";
 ?>
 <br>
-<a href="index.html">Voltar</a>
+<a href="index.php">Voltar</a>

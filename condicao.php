@@ -8,4 +8,4 @@ if ($idade >= 18) {
 }
 ?>
 <br>
-<a href="index.html">Voltar</a>
+<a href="index.php">Voltar</a>

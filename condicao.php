@@ -7,3 +7,5 @@ if ($idade >= 18) {
     echo "Você é menor de idade.";
 }
 ?>
+<br>
+<a href="index.html">Voltar</a>

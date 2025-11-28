@@ -16,3 +16,5 @@ if ($numero > 10) {
     echo "$numero é igual a 10.\n";
 }
 ?>
+<br>
+<a href="index.html">Voltar</a>
